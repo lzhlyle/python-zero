@@ -1,2 +1,3 @@
 # python-zero
-learning python
+
+learning python 2.7.16
